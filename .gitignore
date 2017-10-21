@@ -1,0 +1,12 @@
+bin/
+.classpath
+.settings/
+*.jar
+*.class
+*.rar
+*.tar.gz
+*.zip
+*.ear
+*.war
+*.log
+.mtj.tmp/
